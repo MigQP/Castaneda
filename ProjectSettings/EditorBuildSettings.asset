@@ -11,7 +11,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/cover_01.unity
     guid: 1573584379352ed4fb44c16b2da19f7d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/cover_02.unity
     guid: c041460971586a34ebbbd0de92728955
+  - enabled: 1
+    path: Assets/Scenes/poem_01_english.unity
+    guid: fa6085eb6fda8c746a6c48bfd06f5e35
   m_configObjects: {}
